@@ -81,8 +81,7 @@
 | TON Bridge     | [Telegram](https://t.me/toncoin)          | [GitHub](https://github.com/ton-blockchain/bridge-func) | [Twitter](https://twitter.com/ton_blockchain) | [Website](https://bridge.ton.org/)       |
 | Orbit Bridge   | [Telegram](https://t.me/Orbit_Chain)      | [GitHub](https://github.com/orbit-chain)                | [Twitter](https://twitter.com/Orbit_Chain)    | [Website](https://bridge.orbitchain.io/) |
 | XP.Network     | [Telegram](https://t.me/xp_network)       | [GitHub](https://github.com/XP-NETWORK)                 | [Twitter](https://twitter.com/xpnetwork_)     | [Website](https://bridge.xp.network/)    |
-| TonTake Bridge | [Telegram](https://t.me/tontakebridgebot) |                                                         |                                               |                                          |
-| Wallet Bridge  | [Telegram](https://t.me/walletbridgebot)  |                                                         |                                               |                                          |
+| TonTake Bridge | [Telegram](https://t.me/tontakebridgebot) |                                                         |                                               |                                          
 | Layerswap      |                                           | [GitHub](https://github.com/layerswap/layerswapapp)     | [Twitter](https://twitter.com/layerswap)      | [Website](https://www.layerswap.io/)     |
 
 ## DeFi
