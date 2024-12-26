@@ -255,6 +255,7 @@
 | TON Locker |                                            | [GitHub](https://github.com/ton-blockchain/locker-contract) |                                               |                                    |
 | CRYPTON    | [Telegram](https://t.me/cryptonportal)     |                                                             | [Twitter](https://twitter.com/thetonhub)      | [Website](https://crypton.tools)   |
 | TON MULTISENDER | [Telegram](https://t.me/MultiSender)  |                                                             | [Twitter](https://twitter.com/multi_sender)   | [Website](https://ton.multisender.app) |
+| TON Bulksender | [Telegram](https://t.me/bulksender)  |                                                             | [Twitter](https://twitter.com/TokenBulksender)   | [Website](https://ton.bulksender.app) |
 | sTONks     | [Telegram](https://t.me/stonksonton)	      |                                                             | [Twitter](https://x.com/tonstonks)            | [Website](https://stonksbots.com)  |
 
 ### Portfolio tracker
