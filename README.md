@@ -233,7 +233,7 @@
 | TomTalk                 | [Telegram](https://t.me/TOMTALK_BOT)            | [GitHub](https://github.com/tomtalkofficial)                        | [Twitter](https://x.com/Tomtalkofficial)    | [Website](https://tomtalk.io/)
 | Partona.AI              | [Telegram](https://t.me/partona_bot)            |                                                              | [Twitter](https://x.com/partona_ai)           | [Website](https://partona.ai)                  |
 | Dungeon of KITSU        | [Telegram](https://t.me/DungeonsOfKitsune_bot/game) |                                                          | [Twitter](https://x.com/kitsuneton)           |                                                |
-
+| TonPrison        | [Telegram](https://t.me/TonPrisonNews) |                                                          | [Twitter](https://x.com/TonPrison)           |[Website](https://t.me/tonprison_bot/tonprison)                                                 |
 ## Infra
 
 ### Web3 Internet
