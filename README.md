@@ -439,6 +439,7 @@
 | BitOK       | [Telegram](https://t.me/BitOK_support)  | [GitHub](https://github.com/telegram-bots/BitOk) | [Twitter](https://twitter.com/Bitok_org)   | [Website](https://bitok.org/)           |
 | Elliptic    |                                         |                                                  | [Twitter](http://www.twitter.com/elliptic) | [Website](https://www.elliptic.co/)     |
 | Chainalysis | [Telegram](https://t.me/chainalysisinc) | [GitHub](https://github.com/chainalysis)         | [Twitter](https://twitter.com/chainalysis) | [Website](https://www.chainalysis.com/) |
+| Scorechain  | [Telegram](https://t.me/scorechainbot)  |                                                  | [Twitter](https://x.com/scorechain)        | [Website](https://www.scorechain.com/) |
 | Sumsub      |                                         | [GitHub](https://github.com/SumSubstance)        | [Twitter](https://twitter.com/Sumsubcom)   | [Website](https://sumsub.com/)          |
 | TON Guard   | [Telegram](https://t.me/tonguard_bot)   |                                                  |                                            | [Website](https://tonguard.org/)        |
 
