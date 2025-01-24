@@ -233,6 +233,7 @@
 | TomTalk                 | [Telegram](https://t.me/TOMTALK_BOT)            | [GitHub](https://github.com/tomtalkofficial)                        | [Twitter](https://x.com/Tomtalkofficial)    | [Website](https://tomtalk.io/)
 | Partona.AI              | [Telegram](https://t.me/partona_bot)            |                                                              | [Twitter](https://x.com/partona_ai)           | [Website](https://partona.ai)                  |
 | Dungeon of KITSU        | [Telegram](https://t.me/DungeonsOfKitsune_bot/game) |                                                          | [Twitter](https://x.com/kitsuneton)           |                                                |
+| Landrocker Miner        | [Telegram](https://t.me/landrocker_miner_bot)   | [GitHub](https://github.com/infinite8fze)                    | [Twitter](https://x.com/landrocker_io)        | [Website](https://landrocker.io/)              |
 
 ## Infra
 
@@ -399,6 +400,7 @@
 | xRare (Tonex) | [Telegram](https://t.me/tonexappbot)    |                                         | [Twitter](https://twitter.com/xrarenft)            | [Website](https://tonex.app/nft)     |
 | Bounty Bay    | [Telegram](https://t.me/bountybay_bot)  |                                         | [Twitter](https://x.com/0xBountyBay)               | [Website](https://www.bountybay.app) |
 
+
 # NFT
 
 ## NFT Services
@@ -410,6 +412,7 @@
 | Playmuse          | [Telegram](https://t.me/playmuseton)       |        | [Twitter](https://twitter.com/playmuseton) | [Website](https://playmuse.org)      |
 | NFT TONificaror   | [Telegram](https://t.me/nfttonificatorbot) |        |                                            |                                      |
 | NFT Drop Calendar | [Telegram](https://t.me/tonnftdropbot)     |        |                                            |                                      |
+| Landrocker Miner  | [Telegram](https://t.me/landrocker_miner_bot) | [Twitter](https://x.com/landrocker_io)           | [Website](https://landrocker.io/)              |
 
 ## NFT Tooling
 
