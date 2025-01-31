@@ -152,6 +152,7 @@
 | Pumpers.tg        | [Telegram](https://t.me/pumpers)                |        | [Twitter](https://x.com/pumperstg)           | [Website](https://t.me/PumpersTGBot)    |
 | TonPump.app       | [Telegram](https://t.me/tonpump_community)      |        | [Twitter](https://x.com/TonPump_app)         | [Website](https://t.me/tonpumpapp_bot)  |
 | PizzaTon          | [Telegram](https://t.me/pitzaton)               |        | [Twitter](https://x.com/pitzaton)            | [Website](https://launch.pizzaton.me)   |
+| Tonraffles        | [Telegram](https://t.me/tonraffles)             |        | [Twitter](https://x.com/TonRaffles)          | [Website](https://tonraffles.app)       |
 
 ## Centralized Exchanges
 
@@ -256,6 +257,7 @@
 | CRYPTON    | [Telegram](https://t.me/cryptonportal)     |                                                             | [Twitter](https://twitter.com/thetonhub)      | [Website](https://crypton.tools)   |
 | TON MULTISENDER | [Telegram](https://t.me/MultiSender)  |                                                             | [Twitter](https://twitter.com/multi_sender)   | [Website](https://ton.multisender.app) |
 | sTONks     | [Telegram](https://t.me/stonksonton)	      |                                                             | [Twitter](https://x.com/tonstonks)            | [Website](https://stonksbots.com)  |
+| Tonraffles | [Telegram](https://t.me/tonraffles)        |                                                             | [Twitter](https://x.com/TonRaffles)           | [Website](https://tonraffles.app)  |
 
 ### Portfolio tracker
 
@@ -613,7 +615,7 @@
 | DogWifHood | [Telegram](https://t.me/dogwifhood_TON) | [`EQAuco5ZEPgB19fSTo7EmtLTJysrKxbu6M_XOFDwWQiNjCsQ`](https://tonviewer.com/EQAuco5ZEPgB19fSTo7EmtLTJysrKxbu6M_XOFDwWQiNjCsQ) | [Twitter](https://twitter.com/dogwifhoodTON) | [Website](https://wifhood.dog) |
 | Tonk | [Telegram](https://t.me/tonkinu_official) | [`EQDv68b3JaWBO_DrP6u13Oq7KsnKhR926kMxcOJwACDY_uQC`](https://tonviewer.com/EQDv68b3JaWBO_DrP6u13Oq7KsnKhR926kMxcOJwACDY_uQC) | [Twitter](https://twitter.com/tonkinubot) | [Website](https://www.tonk.bot) |
 | PaperPlane | [Telegram](https://t.me/paperplane_ton) | [`EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2`](https://tonviewer.com/EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2) | [Twitter](https://twitter.com/paperplane_ton) | [Website](https://paperplanetoken.site) |
-| Peng | [Telegram](https://t.me/pengonton) | [`EQAWMOQi5WGpol6uacoobxT4XqX9cumNP3XI2ZcvK4gMdM9h`](https://tonviewer.com/EQAWMOQi5WGpol6uacoobxT4XqX9cumNP3XI2ZcvK4gMdM9h) | [Twitter](https://twitter.com/pengtoncoin) | [Website](https://pengonton.com) |
+| Peng | [Telegram](https://t.me/pengtoncoin) | [`EQAWMOQi5WGpol6uacoobxT4XqX9cumNP3XI2ZcvK4gMdM9h`](https://tonviewer.com/EQAWMOQi5WGpol6uacoobxT4XqX9cumNP3XI2ZcvK4gMdM9h) | [Twitter](https://twitter.com/pengtoncoin) | [Website](https://pengonton.com) |
 | ANON | [Telegram](https://t.me/anon_club) | [`EQDv-yr41_CZ2urg2gfegVfa44PDPjIK9F-MilEDKDUIhlwZ`](https://tonviewer.com/EQDv-yr41_CZ2urg2gfegVfa44PDPjIK9F-MilEDKDUIhlwZ) | [Twitter](https://twitter.com/anonclub8) | [Website](https://anon.tg/) |
 | Morfey | [Telegram](https://t.me/morfeyofficial) | [`EQB64Q2183H9XqsrR9h6tV83AnRlFX86MJWRCMQlsgQU2-yv`](https://tonviewer.com/EQB64Q2183H9XqsrR9h6tV83AnRlFX86MJWRCMQlsgQU2-yv) | [Twitter](https://twitter.com/morfeytoken) | [Website](https://morfeytoken.io/) |
 | INSECTS | [Telegram](https://t.me/Insects_FUTURES) | [`EQBecg3E6822M1aZOZhqzMWaSRGP712sDRkQgHO4MSgDRDHq`] (https://tonviewer.com/EQBecg3E6822M1aZOZhqzMWaSRGP712sDRkQgHO4MSgDRDHq) | [Twitter](https://x.com/insectsvip?s=21) | [Website](https://insects.vip)
